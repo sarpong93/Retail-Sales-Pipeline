@@ -1,0 +1,4 @@
+customer_id,customer_name,email,phone,region,created_date,customer_type
+CUST-001,Jane Smith,jane@example.com,555-123-4567,East,2024-02-15,Retail
+CUST-002,Acme Corp,contact@acme.com,555-987-6543,West,2023-10-01,Wholesale
+CUST-003,John Doe,john@example.com,555-222-1111,Central,2025-01-20,Retail

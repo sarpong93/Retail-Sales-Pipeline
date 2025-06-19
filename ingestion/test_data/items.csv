@@ -1,0 +1,4 @@
+item_id,item_name,item_type,category,unit_price,taxable
+ITEM-01,T-Shirt,Inventory,Apparel,20.0,Yes
+ITEM-02,Monthly Service,Service,Subscriptions,100.0,No
+ITEM-03,Coffee Mug,Inventory,Accessories,15.0,Yes

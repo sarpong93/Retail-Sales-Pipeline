@@ -1,0 +1,4 @@
+invoice_id,customer_id,item_id,quantity,rate,amount,invoice_date,due_date,status
+INV-1001,CUST-001,ITEM-01,2,20.0,40.0,2025-06-01,2025-06-15,Paid
+INV-1002,CUST-002,ITEM-02,1,100.0,100.0,2025-06-02,2025-06-16,Open
+INV-1003,CUST-001,ITEM-03,3,15.0,45.0,2025-06-03,2025-06-17,Overdue

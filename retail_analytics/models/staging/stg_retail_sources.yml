@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: retail_raw
+    database: AwsDataCatalog
+    schema: retail_raw
+    tables:
+      - name: invoices
+      - name: customers
+      - name: items
